@@ -1,4 +1,4 @@
-FROM csw-docker-registry/csw-airfcms-ubuntu
+FROM ubuntu:latest
 
 ENV DEBIAN_FRONTEND noninteractive
 

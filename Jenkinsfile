@@ -5,7 +5,7 @@
 Pipelines {
     repositoryName = 'clangsa_project'
     cmakeBuildDir = 'build'
-    dockerImage = 'csw-docker-registry/clangsa_project'
+    dockerImage = 'csw-docker-registry/clangsa-project'
     dockerRegistryUrl = 'https://airfcms.jfrog.io/'
     artifactoryGenericRegistry_ID = 'artifactory_generic_repository'
     //Version for deploy
